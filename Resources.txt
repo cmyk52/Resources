@@ -1,2 +1,3 @@
 https://bluuweb.github.io/tailwindcss/
 https://getcssscan.com/
+https://uicolors.app/browse/tailwind-colors
