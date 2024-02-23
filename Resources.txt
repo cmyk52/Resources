@@ -1,1 +1,2 @@
 https://bluuweb.github.io/tailwindcss/
+https://getcssscan.com/
