@@ -5,3 +5,6 @@ https://uicolors.app/browse/tailwind-colors
 
 Icons SVG:
 https://flowbite.com/icons/
+
+UI Guide:
+https://m2.material.io/design/introduction
