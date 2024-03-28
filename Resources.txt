@@ -3,7 +3,8 @@ https://getcssscan.com/
 https://uicolors.app/browse/tailwind-colors
 
 
-Icons SVG:
+Icons SVG: 
+https://tabler.io/icons
 https://flowbite.com/icons/
 https://lineicons.com/free-icons
 
